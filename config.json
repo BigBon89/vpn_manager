@@ -1,0 +1,26 @@
+{
+  "bot_token": "",
+  "crypto_bot_token": "",
+  "admin_id": "",
+  "devices": 3,
+  "servers": {
+    "1": {
+      "flag": "\uD83C\uDDEA\uD83C\uDDEA",
+      "country": "Estonia",
+      "city": "Tallinn",
+      "login": "",
+      "password": "",
+      "ip": "",
+      "port": "",
+      "base": "",
+      "sid": "",
+      "pbk": ""
+    }
+  },
+  "plans": {
+    "1": 100,
+    "3": 300,
+    "6": 600,
+    "12": 1200
+  }
+}
